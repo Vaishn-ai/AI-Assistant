@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langgraph
+chromadb
+pypdf
+openai
+django
+djangorestframework
+django-cors-headers
+python-dotenv
+gunicorn
